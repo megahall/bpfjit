@@ -29,6 +29,7 @@ sljit/**/*.c
 sljit/**/.svn
 sljit/**/*.plist
 sljit/.svn
+sljit/doc
 sljit/README
 sljit/API_CHANGES
 sljit/INTERNAL_CHANGES
